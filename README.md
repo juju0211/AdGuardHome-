@@ -1,2 +1,2 @@
 # AdGuardHome
-白名单
+AdGuardHome白名单
