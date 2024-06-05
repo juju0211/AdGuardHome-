@@ -5,6 +5,7 @@
 @@||hdns.ksyun.com^$important
 @@||api.kuaishouzt.com^$important
 @@||api.kingdata.ksyun.com^$important
+@@||s2.kskwai.com^$important
 
 #搜狗输入法皮肤
 @@||img.shouji.sogou.com^$important
