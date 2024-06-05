@@ -1,4 +1,4 @@
-# AdGuardHome
+# AdGuardHome白名单
 
 
 https://raw.githubusercontent.com/juju0211/AdGuardHome-/main/白名单.txt
