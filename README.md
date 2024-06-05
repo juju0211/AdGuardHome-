@@ -1,1 +1,1 @@
-# AdGuardHome-
+# AdGuardHome
