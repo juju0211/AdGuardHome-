@@ -1,6 +1,9 @@
 #小米云备份
 @@||a0.app.xiaomi.com^$important
 
+#小米AI
+@@||tracker.ai.xiaomi.com^$important
+
 #快手极速版领取金币
 @@||hdns.ksyun.com^$important
 @@||api.kuaishouzt.com^$important
@@ -22,10 +25,11 @@
 @@||pgdt.gtimg.cn^$important
 @@||otheve.beacon.qq.com^$important
 
-#小米AI
-@@||tracker.ai.xiaomi.com^$important
 
 #微信DNS/小程序广告奖励/HTTPS检测
 @@||dns.weixin.qq.com.cn^$important
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||wxsnsdy.wxs.qq.com^$important
+
+#支付宝医保查询
+@@||openmonitor.alipay-eco.com^$important
